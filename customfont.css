@@ -3,3 +3,10 @@ font-family: 'Gistesy';
 src: url(..//Gistesy.ttf); 
 font-weight: normal; 
 }
+@font-face
+{
+font-family: 'Gistesy'; 
+src: url(..//Gistesy.ttf); 
+font-weight: normal; 
+src: url('./fonts/Gistesy.ttf');
+}
