@@ -1,7 +1,6 @@
 @font-face
 {
 font-family: 'Gistesy'; 
-src: url(..//Gistesy.ttf); 
 font-weight: normal; 
-src: url('./Gistesy.ttf');
+src: url('Gistesy.ttf');
 }
